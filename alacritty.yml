@@ -4,15 +4,15 @@ font:
     style: Regular
 
   bold:
-    family: monospace
+    family: BlexMono Nerd Font
     style: Bold
 
   italic:
-    family: Dank Mono
+    family: BlexMono Nerd Font
     style: Italic
 
   bold_italic:
-    family: Dank Mono
+    family: BlexMono Nerd Font
     style: Bold Italic
 
   size: 12

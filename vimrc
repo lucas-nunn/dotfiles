@@ -1,0 +1,3 @@
+" ---------- vim configurations ----------
+
+syntax on
