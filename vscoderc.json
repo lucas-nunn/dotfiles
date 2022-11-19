@@ -1,0 +1,26 @@
+{
+  /* ----- ui tweaks -----*/
+  "window.menuBarVisibility": "toggle",
+  "workbench.startupEditor": "none",
+  "workbench.statusBar.visible": false,
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "Xcode Default (Dark)",
+  "editor.fontFamily": "'BlexMono', 'monospace', monospace",
+  "editor.fontSize": 15,
+  "terminal.integrated.fontSize": 15,
+  "editor.lineHeight": 22,
+  "editor.fontLigatures": true,
+
+  /* ----- vim ----- */
+  "vim.highlightedyank.enable": true,
+
+  /* text editing */
+  "editor.stickyScroll.enabled": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.iconTheme": "moxer-icons",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDelete": false
+
+  /* temporary */
+}
