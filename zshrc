@@ -24,9 +24,15 @@ source $ZSH/oh-my-zsh.sh
 
 # ---------- zsh configurations ----------
 
+cd ~/root
+
 # zsh autosuggestions
 bindkey '^ ' autosuggest-accept
 
 # aliases
+alias r="cd ~/root"
 alias gs="git status"
 alias gd="git diff"
+alias vpns="expressvpn status"
+alias vpnc="expressvpn connect"
+alias vpnd="expressvpn disconnect"
